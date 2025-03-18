@@ -13,8 +13,8 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
-        Text(text ="Little Lemon", fontSize = 32.sp
-            , color = Color(0xFFF4CE14)
+            Text(text ="Little Lemon", fontSize = 32.sp
+                , color = Color(0xFFF4CE14)
         )
         }
     }
